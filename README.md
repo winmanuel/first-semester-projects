@@ -105,15 +105,14 @@ cd month2_minimart_analysis/python
 python main.py
 ```
 
-
 ## 🚀 Submission Instructions
 
 1. **Fork** this repository to your GitHub.
 2. **Clone** it locally:
 
    ```bash
-   git clone https://github.com/your-username/data-engineering-projects.git
-   cd data-engineering-projects
+   git clone https://github.com/SamDewriter/first-semester-projects.git
+   cd first-semester-projects
    ```
 3. Complete all tasks inside `month1_student_management/` and `month2_minimart_analysis/`.
 4. **Commit and Push**:
